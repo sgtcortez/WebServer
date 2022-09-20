@@ -1,0 +1,7 @@
+-I
+./include
+-Wall
+-std=c++11
+-Wextra
+-Wpedantic
+-Werror
